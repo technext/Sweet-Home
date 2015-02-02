@@ -802,8 +802,7 @@ button.navbar-btn:hover {
 }
  .slider-text h1{
     font-size: 75px;
-    font-weight: 300;
- 
+    font-weight: 700;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -891,7 +890,7 @@ span.rotate {
 h2.white {
     font-size: 26px;
     line-height: 0.62em;
-    font-weight: 300;
+    font-weight: 500;
     font-family: 'Raleway', sans-serif;
     text-transform: capitalize;
 }
